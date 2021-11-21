@@ -5,3 +5,6 @@
  :license "MIT"
  :url  "https://github.com/uvtc/janet-rand"
  :repo "https://github.com/uvtc/janet-rand")
+
+(declare-source
+ :source ["rand.janet"])
