@@ -1,3 +1,9 @@
+# rand.janet
+#
+# A library of various functions for getting random things.
+#
+# Copyright 2021 John Gabriele
+
 (defn rand-int
   ``Generate a random integer i, either in 0 <= i < n,
   or --- if `m` is given --- in n <= i < m.``
