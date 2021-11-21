@@ -1,5 +1,5 @@
 (declare-project
- :name "random"
+ :name "rand"
  :description "Some functions to get you random things."
  :author "John Gabriele"
  :license "MIT"
